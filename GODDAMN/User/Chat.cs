@@ -7,7 +7,7 @@ namespace DONTKILL_Bot.Command_Structure.User_Commands
 {
     /*
     *
-    * DONTKILL
+    *   DONTKILL
     *	File.:	Chat.cs
     *	Desc.:	chat based commands for users.
     *
