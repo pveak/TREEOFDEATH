@@ -30,7 +30,7 @@ namespace OMGIMHORNY_Chat_Server.Server
             WS.AddWebSocketService<Chat>("/chat");
             WS.Start();
 
-            Console.WriteLine("ready");
+            Console.WriteLine("Ready");
 
             while (true) { Thread.Sleep(int.MaxValue);}
         }
