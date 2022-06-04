@@ -5,3 +5,4 @@
 ## Contains
 
 - TREEOFDEATH
+- ISLAM CANT HELP ME
