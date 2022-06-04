@@ -15,11 +15,11 @@ namespace DONTKILL_Bot.Command_Structure.User_Commands
     
       public class ChatUsers : ModuleBase
     {
-        [Command("ping"), Summary("Returns \"Pong!\" if the bot is alive.")]
+        [Command("ping"), Summary("Returns \"Hi!\" if bot alive.")]
         public async Task Ping()
         {
             var embedBuilder = GlobalMethods.buildEmbed(new User(), "Ping");
-            embedBuilder.WithDescription("Pong!");
+            embedBuilder.WithDescription("On");
             await ReplyAsync(null, false, embedBuilder);
         }
     }
