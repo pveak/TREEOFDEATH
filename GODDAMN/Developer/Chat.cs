@@ -5,7 +5,7 @@ using Discord.Commands;
 using DONTKILL.Utility;
 using DONTKILL.Utility_Methods;
 
-namespace DONTKILL_Bot.Command_Structure.User_Commands
+namespace DONTKILL_Bot.Command_Structure.Developer_Commands
 {
     /*
     *
